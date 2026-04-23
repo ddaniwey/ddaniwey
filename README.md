@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## DAW
 #### FRONT
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js, ts, angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
