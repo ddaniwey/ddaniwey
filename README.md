@@ -15,13 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## INGENIERIA INFORMÁTICA
+2025
+Madrid
+--------------------------------------------------------------------------
+- Data structures
+- Algorithms
+- Compilers
+[![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
+
+
 ## DAW
 2023-2025
 Madrid
 #### FRONT
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
 
 #### Back
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,node,npm,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,npm)](https://skillicons.dev)
