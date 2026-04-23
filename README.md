@@ -22,7 +22,8 @@ Madrid
 - Data structures
 - Algorithms
 - Compilers
-[![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 
 
 ## DAW
