@@ -16,6 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## DAW
+2023-2025
+Madrid
 #### FRONT
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular)](https://skillicons.dev)
+
+#### Back
+
+[![My Skills](https://skillicons.dev/icons?i=java,php,node,npm,angular)](https://skillicons.dev)
