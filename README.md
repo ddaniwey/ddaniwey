@@ -7,7 +7,7 @@
 
 - 🔭 **Currently improving** my skills in computer science and software engineering
 - 🌱 **Learning** data structures and algorithms in C++ (Python coming soon)
-- 📫 **Reach me** on _Gmail_
+- 📫 **Reach me** on _Gmail_ or _Discord_
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -32,7 +32,11 @@
 </a>
 </p>
 
-### 🤝🏻 My discord
+### 🤝🏻 Contact with me
 <a href="mailto:ddaniwey@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/ddaniwey">
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white"/>
 </a>
