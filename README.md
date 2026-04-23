@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## DAW
+#### FRONT
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js, ts, angular)](https://skillicons.dev)
