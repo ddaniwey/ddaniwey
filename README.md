@@ -6,11 +6,12 @@
 
 
 - 🔭 **Currently improving** my skills in computer science and software engineering
-- 🌱 **Learning** data structures and algorithms in C++ (Python coming soon)
+- 🌱 **Learning** Python
 - 📫 **Reach me** on _Gmail_ or _Discord_
 
 
 ### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
